@@ -1,0 +1,33 @@
+{
+  "name": "next",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@popperjs/core": "^2.9.2",
+    "bootstrap": "^5.0.1",
+    "next": "^11.0.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "sass": "~1.32.13",
+    "simplebar-react": "^2.3.3"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JohnLouielGitHub/duelist-next-project.git"
+  },
+  "bugs": {
+    "url": "https://github.com/JohnLouielGitHub/duelist-next-project/issues"
+  },
+  "description": "![Duelist PRS](https://user-images.githubusercontent.com/80525007/123513083-b5ab5680-d6bd-11eb-9152-8f6942dcc2a5.png)",
+  "homepage": "https://github.com/JohnLouielGitHub/duelist-next-project#readme"
+}
