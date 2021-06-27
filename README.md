@@ -3,7 +3,7 @@
 
 ## 💻 To Visit the site, click the link below
 
-https://duelist-next-project.vercel.app/featured
+https://gaming-dashboard-project.vercel.app/featured
 
 ## 🔳 AboutThe Project
    -This project is a collaboration of our team with three members. The goal of this project was to build a gaming dashboard with multiple pages. The design, color and content were decided by us.
