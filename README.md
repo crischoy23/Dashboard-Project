@@ -1,12 +1,12 @@
-## 🔲DUELIST Website(fictional-educational purposes only)
+## 🔲DUELIST Gaming Dashboard Project(fictional-educational purposes only)
+![Duelist PRS](https://user-images.githubusercontent.com/80525007/123513083-b5ab5680-d6bd-11eb-9152-8f6942dcc2a5.png)
 
 ## 💻 To Visit the site, click the link below
 
-https://crischoy23.github.io/DUELIST/
+https://duelist-next-project.vercel.app/featured
 
-<b>Static Landing Page Web Design
-
-## 👩 AboutThe Project
+## 🔳 AboutThe Project
+   -This project is a collaboration of our team with three members. The goal of this project was to build a gaming dashboard with multiple pages. The design, color and content are decided by us.
 
 - 🌱
 
@@ -33,27 +33,16 @@ https://crischoy23.github.io/DUELIST/
 ## 🚀 Languages and Tools Used:
 
 <p align="left"> 
-    <a> <img src="https://user-images.githubusercontent.com/80525007/123545785-83b4f580-d78c-11eb-850a-eb223c9351d2.png" height="50px" width="50px"/> </a> 
+   <img src="https://user-images.githubusercontent.com/80525007/123513505-2bb0bd00-d6c0-11eb-853f-cb09284180de.png" height="50px" width="60px">
     <a> <img src="https://img.icons8.com/color/48/000000/html-5.png" height="50px" width="60px"/> </a> 
     <a> <img src="https://img.icons8.com/color/48/000000/css3.png" height="50px" width="60px"/> </a>
     <a> <img src="https://img.icons8.com/color/48/000000/git.png" height="50px" width="60px"/> </a> 
-    <a> <img src="https://cdn.iconscout.com/icon/free/png-512/figma-682083.png"  height="50px" width="60px"/> </a> 
-        <a> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"  height="50px" width="60px"/> </a> 
+    <a> <img src="https://cdn.iconscout.com/icon/free/png-512/figma-682083.png"  height="60px" width="60px"/> </a> 
+    <a> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"  height="50px" width="60px"/> </a> 
     
     
 </p>
 
-## 📫 Connect with me:
 
-<p align="left">
-<a href = "https://www.linkedin.com/in/crispina-choy-awon-564421210"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://github.com/crischoy23/"><img src="https://img.icons8.com/fluent/48/000000/github.png"/></a>
-</p>
 
-## 👀 Views and Followers
 
-<p align="left">
-<a><img src="https://komarev.com/ghpvc/?username=crischoy23">
-</a>
-<a><img src="https://img.shields.io/github/followers/crischoy23?label=Followers&style=social" alt="GitHub Badge"></a>
-</p>
