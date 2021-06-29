@@ -1,5 +1,5 @@
 ## 🔲DUELIST Gaming Dashboard Project(fictional-educational purposes only)
-![Duelist PRS](https://user-images.githubusercontent.com/80525007/123513083-b5ab5680-d6bd-11eb-9152-8f6942dcc2a5.png)
+![Capture3-removebg-preview](https://user-images.githubusercontent.com/80525007/123826478-6326a000-d932-11eb-8dd0-cadd01f97ab5.png)
 
 ## 💻 To Visit the site, click the link below
 
